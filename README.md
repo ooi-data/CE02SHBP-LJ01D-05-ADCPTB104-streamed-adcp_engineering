@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_engineering
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Engineering Data<br>
+Instrument Group Code: ADCP<br>
